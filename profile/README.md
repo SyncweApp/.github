@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://syncwe.top/logo.png" width="120" alt="Syncwe Logo" />
+<img src="https://syncwe.top/assets/logo.png" width="120" alt="Syncwe Logo" />
 
-# Syncwe（一起看）
+# Syncwe（异地同步观影）
 
 **和朋友一起看电影、追番、刷剧** 🎬
 
@@ -17,7 +17,7 @@
 
 ### ✨ 核心功能
 
-- 🎥 **同步观影** — 创建房间，邀请好友，实时同步进度
+- 🎥 **同步观影** — 创建房间，邀请好友，异地实时同步进度
 - 💬 **弹幕互动** — 边看边聊，支持全平台弹幕加载
 - 📺 **海量资源** — 插件化视频源，自由扩展
 - 📥 **离线下载** — 缓存视频，随时随地观看
