@@ -1,90 +1,73 @@
 <div align="center">
 
-<img src="https://syncwe.top/assets/logo.png" width="120" alt="Syncwe Logo" />
+<img src="https://socialify.git.ci/SyncweApp/syncwe/image?description=1&descriptionEditable=%E5%BC%82%E5%9C%B0%E5%90%8C%E6%AD%A5%E8%A7%82%E5%BD%B1%E5%BA%94%E7%94%A8%20%C2%B7%20%E5%92%8C%E6%9C%8B%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%9C%8B%E7%94%B5%E5%BD%B1%E3%80%81%E8%BF%BD%E7%95%AA%E3%80%81%E5%88%B7%E5%89%A7&font=Jost&logo=https%3A%2F%2Fraw.githubusercontent.com%2FSyncweApp%2Fsyncwe%2Fmain%2Fdocs%2Fpublic%2Fassets%2Flogo.png&name=1&owner=1&pattern=Plus&theme=Light" alt="Syncwe" />
 
-# Syncwe（异地同步观影）
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/SyncweApp/syncwe)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)](https://syncwe.top/download)
+[![Release](https://img.shields.io/badge/release-latest-brightgreen.svg)](https://syncwe.top/changelog)
+[![Downloads](https://img.shields.io/github/downloads/SyncweApp/docs/total?label=downloads&color=667eea)](https://syncwe.top/download)
 
-**和朋友一起看电影、追番、刷剧，无论相隔多远** 🎬
-
-跨平台同步观影应用 · Android / iOS / Windows / macOS
-
-[![Download](https://img.shields.io/badge/📲_立即下载-syncwe.top-667eea?style=for-the-badge)](https://syncwe.top/download)
-[![Docs](https://img.shields.io/badge/📖_使用文档-syncwe.top-333?style=for-the-badge)](https://syncwe.top)
+[📥 Download](https://syncwe.top/download) &nbsp;•&nbsp;
+[📖 Docs](https://syncwe.top) &nbsp;•&nbsp;
+[🔄 Changelog](https://syncwe.top/changelog) &nbsp;•&nbsp;
+[❓ Help](https://syncwe.top/help)
 
 </div>
 
 ---
 
-### 🎬 三内核播放器 · 什么都能播
+## 🎯 What is Syncwe?
 
-内置 **ExoPlayer/AVKit + mpv + mdk** 三大播放内核，自由切换：
+**Syncwe（一起看）** is a cross-platform synchronized video watching app built for long-distance friends and families. Watch movies, anime, and live streams together — as if you're sitting on the same couch.
 
-- 🎯 **全格式通吃** — 你能想到的格式都能播
-- ⏩ **0.5x ~ 4x 倍速** · 多音轨切换 · 外挂字幕 · 画中画
-- 💬 **全平台弹幕** — 爱优腾芒哔咪，弹幕实时加载
-
-### ☁️ 夸克网盘直播
-
-直接播放**夸克网盘**里的视频，无需下载：
-
-- 📂 登录即可浏览网盘目录，选集播放
-- ⚡ 秒开不卡顿，支持超清画质
-- 🔄 同时支持 **WebDAV / Alist** 网盘挂载
-
-### 🖥️ Emby 无缝集成
-
-连接你的 **Emby 媒体服务器**，影库直达：
-
-- 📚 完整影库浏览、搜索、分类
-- 🎞️ 海报墙展示，媲美原生客户端体验
-- 👥 和朋友同步观看 Emby 里的电影
-
-### 🎨 顶级 UI 设计
-
-精心打磨每一个像素，拒绝粗糙：
-
-- ✨ 现代化设计语言，流畅动画过渡
-- 🌙 深色模式全局适配，护眼舒适
-- 📱 自适应布局，手机 / 平板 / 桌面端完美呈现
+> **三内核播放器 · 多源支持 · 弹幕互动 · 跨平台全覆盖**
 
 ---
 
-### ✨ 更多亮点
+## ✨ Feature Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-**🎥 同步观影**
-- 秒级同步，进度完全一致
-- 多人房间，实时聊天互动
-- 房主控制播放/暂停/快进
+### 🎬 Multi-Engine Player
+Built-in **ExoPlayer/AVKit + mpv + mdk** — three playback engines, switch freely for the best experience.
+
+- 🎯 Universal format support — plays virtually anything
+- ⏩ 0.5x–4x speed · multi-track audio · external subtitles · PiP
+- 💬 Cross-platform danmaku from all major streaming services
 
 </td>
 <td width="50%">
 
-**📺 海量资源**
-- 插件化视频源，自由扩展
-- 智能视频嗅探，提取网页视频
-- 抖音/B站直播流解析
+### ☁️ Cloud Drive Streaming
+Stream videos directly from **Quark Netdisk** — no download, no wait.
+
+- 📂 Browse disk directories, select episodes, play instantly
+- ⚡ Lightning-fast startup with HD quality
+- 🔄 Also supports **WebDAV / Alist** mounts
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📥 离线下载**
-- 缓存视频离线观看
-- M3u8 智能下载与广告过滤
-- 后台下载，不影响使用
+### 🖥️ Emby Integration
+Connect your **Emby media server** — your entire library at your fingertips.
+
+- 📚 Full library browsing, search & categorization
+- 🎞️ Poster wall display — native client-level experience
+- 👥 Sync-watch Emby content with friends
 
 </td>
 <td width="50%">
 
-**💾 云端同步**
-- 收藏/历史跨设备同步
-- 观看进度自动记录
-- 无缝续播，换设备不丢进度
+### 🎥 Synchronized Viewing
+Real-time sync technology keeps everyone exactly in frame.
+
+- ⏱️ Second-level synchronization across all devices
+- 👥 Multi-person rooms with live chat
+- 🎮 Host controls: play, pause, seek — everyone follows
 
 </td>
 </tr>
@@ -92,21 +75,67 @@
 
 ---
 
-### 📱 支持平台
+## 📸 Screenshots
 
-| 平台 | 最低版本 |
-|------|---------|
-| 🤖 Android | Android 7+ |
-| 🍎 iOS | iOS 14+ |
-| 🪟 Windows | Windows 10+ |
-| 🍏 macOS | macOS 10.15+ |
+<details open>
+<summary><b>🖥️ Landscape</b></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape1.png" width="45%" alt="Player" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape2.png" width="45%" alt="Room Sync" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape3.png" width="45%" alt="Danmaku" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape4.png" width="45%" alt="Multi-user Watching" />
+</p>
+</details>
 
-### 🔗 相关链接
+<details>
+<summary><b>📱 Portrait</b></summary>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait1.jpg" width="22%" alt="Search" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait2.jpg" width="22%" alt="Tools" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait3.jpg" width="22%" alt="Sources" />&nbsp;
+  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait4.jpg" width="22%" alt="Rooms" />
+</p>
+</details>
 
-- 🌐 官网：[syncwe.top](https://syncwe.top)
-- 📲 下载：[syncwe.top/download](https://syncwe.top/download)
-- 📦 视频源规则：[SyncweApp/SyncweRules](https://github.com/SyncweApp/SyncweRules)
-- 📧 联系：[contact@syncwe.top](mailto:contact@syncwe.top)
+---
+
+## 🛠️ Platform Support
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="25%"><h3>🤖</h3><b>Android</b><br><sub>7.0+</sub></td>
+      <td align="center" width="25%"><h3>🍎</h3><b>iOS</b><br><sub>14.0+</sub></td>
+      <td align="center" width="25%"><h3>🪟</h3><b>Windows</b><br><sub>10+</sub></td>
+      <td align="center" width="25%"><h3>🍏</h3><b>macOS</b><br><sub>10.15+</sub></td>
+    </tr>
+  </table>
+</p>
+
+---
+
+## 🔗 Quick Links
+
+| | |
+|---|---|
+| 🌐 **Website** | [syncwe.top](https://syncwe.top) |
+| 📥 **Download** | [syncwe.top/download](https://syncwe.top/download) |
+| 📖 **Documentation** | [syncwe.top](https://syncwe.top) |
+| 📦 **Video Source Rules** | [SyncweApp/SyncweRules](https://github.com/SyncweApp/SyncweRules) |
+| 📧 **Contact** | [contact@syncwe.top](mailto:contact@syncwe.top) |
+
+---
+
+## 📊 Star History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SyncweApp/syncwe&type=Date" />
+</picture>
 
 ---
 
@@ -114,6 +143,6 @@
 
 **Syncwe — 让距离不再是问题，一起看更精彩** 🍿
 
-如果你喜欢这个项目，请给我们一个 ⭐
+<sub>Made with ❤️ by the Syncwe Team · © 2025–2026</sub>
 
 </div>
