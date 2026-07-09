@@ -82,12 +82,12 @@ Real-time sync technology keeps everyone exactly in frame.
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="./assets/screenshots/landscape1.png" width="400" alt="Player" /></td>
-      <td align="center"><img src="./assets/screenshots/landscape2.png" width="400" alt="Room Sync" /></td>
+      <td align="center"><img src="./assets/screenshots/landscape1.jpg" width="400" alt="Player" /></td>
+      <td align="center"><img src="./assets/screenshots/landscape2.jpg" width="400" alt="Room Sync" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="./assets/screenshots/landscape3.png" width="400" alt="Danmaku" /></td>
-      <td align="center"><img src="./assets/screenshots/landscape4.png" width="400" alt="Multi-user Watching" /></td>
+      <td align="center"><img src="./assets/screenshots/landscape3.jpg" width="400" alt="Danmaku" /></td>
+      <td align="center"><img src="./assets/screenshots/landscape4.jpg" width="400" alt="Multi-user Watching" /></td>
     </tr>
   </table>
 </p>
