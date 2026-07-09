@@ -81,11 +81,11 @@ Real-time sync technology keeps everyone exactly in frame.
 <summary><b>🖥️ Landscape</b></summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape1.png" width="45%" alt="Player" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape2.png" width="45%" alt="Room Sync" />
+  <img src="./profile/assets/screenshots/landscape1.png" width="45%" alt="Player" />&nbsp;
+  <img src="./profile/assets/screenshots/landscape2.png" width="45%" alt="Room Sync" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape3.png" width="45%" alt="Danmaku" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/landscape4.png" width="45%" alt="Multi-user Watching" />
+  <img src="./profile/assets/screenshots/landscape3.png" width="45%" alt="Danmaku" />&nbsp;
+  <img src="./profile/assets/screenshots/landscape4.png" width="45%" alt="Multi-user Watching" />
 </p>
 </details>
 
@@ -93,10 +93,10 @@ Real-time sync technology keeps everyone exactly in frame.
 <summary><b>📱 Portrait</b></summary>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait1.jpg" width="22%" alt="Search" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait2.jpg" width="22%" alt="Tools" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait3.jpg" width="22%" alt="Sources" />&nbsp;
-  <img src="https://raw.githubusercontent.com/SyncweApp/syncwe/main/docs/public/assets/screenshots/portrait4.jpg" width="22%" alt="Rooms" />
+  <img src="./profile/assets/screenshots/portrait1.jpg" width="22%" alt="Search" />&nbsp;
+  <img src="./profile/assets/screenshots/portrait2.jpg" width="22%" alt="Tools" />&nbsp;
+  <img src="./profile/assets/screenshots/portrait3.jpg" width="22%" alt="Sources" />&nbsp;
+  <img src="./profile/assets/screenshots/portrait4.jpg" width="22%" alt="Rooms" />
 </p>
 </details>
 
